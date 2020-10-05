@@ -1,6 +1,7 @@
 # Exercise 2
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
 
-In your `README.md` document, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor name.
-
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+| **Course number** | _Course title_ | Instructor name |
+| :-----------------| :--------------| :---------------|
+| **16552**         | _Info 270_     | Jevin West      |
+| **16534**         | _Info 201_     | Nicole McNichols|
+| **20748**         | _Psych 210_    | Kyle Thayer     |

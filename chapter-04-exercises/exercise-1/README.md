@@ -1,6 +1,9 @@
 # Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
+My favorite quote:
+```
+If you never light the cigarette, you
+never give the thing that can kill you
+the Power it needs to kill you
+```
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
-
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+[Additional information about the quote](https://www.litcharts.com/lit/the-fault-in-our-stars/symbols/augustus-cigarettes)
